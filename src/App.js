@@ -124,6 +124,16 @@ class App extends Component {
             <VisibilityControl description="Completed Tasks" isChecked={this.state.showCompleted} callback={(checked) => this.setState({showCompleted: checked})} />
           </div>
 
+          {
+              this.state.showCompleted &&
+                  <table className={"table table-striped table-bordered"}>
+                      <thead>
+                        <tr><ht>Description</ht><th>Done</th></tr>
+                      </thead>
+                      <tbody>{this.todoTableRows(true)}</tbody>
+                  </table>
+          }
+
       </div>
 
     /*

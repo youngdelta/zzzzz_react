@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa5409a0-907a-4bed-b0e4-8e14f995c2e2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590375918263</updated>
       <workItem from="1590375920032" duration="4228000" />
-      <workItem from="1590481177662" duration="1256000" />
+      <workItem from="1590481177662" duration="1600000" />
     </task>
     <task id="LOCAL-00001" summary="zzz">
       <created>1590482009232</created>
@@ -74,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590482009233</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="zzz">
+      <created>1590482448873</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590482448873</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -100,10 +106,10 @@
       <screen x="405" y="1440" width="1858" height="1080" />
     </state>
     <state x="1562" y="1589" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/405.1440.1858.1080/62.0.2498.1440/2560.360.1920.1080@405.1440.1858.1080" timestamp="1590376336348" />
-    <state x="920" y="1459" key="CommitChangelistDialog2" timestamp="1590482007872">
+    <state x="920" y="1459" key="CommitChangelistDialog2" timestamp="1590482447814">
       <screen x="405" y="1440" width="1858" height="1080" />
     </state>
-    <state x="920" y="1459" key="CommitChangelistDialog2/405.1440.1858.1080/62.0.2498.1440/2560.360.1920.1080@405.1440.1858.1080" timestamp="1590482007872" />
+    <state x="920" y="1459" key="CommitChangelistDialog2/405.1440.1858.1080/62.0.2498.1440/2560.360.1920.1080@405.1440.1858.1080" timestamp="1590482447814" />
     <state x="1326" y="1768" key="FileChooserDialogImpl" timestamp="1590481382043">
       <screen x="405" y="1440" width="1858" height="1080" />
     </state>
@@ -116,10 +122,10 @@
       <screen x="405" y="1440" width="1858" height="1080" />
     </state>
     <state x="643" y="1752" key="SettingsEditor/405.1440.1858.1080/62.0.2498.1440/2560.360.1920.1080@405.1440.1858.1080" timestamp="1590481408044" />
-    <state x="895" y="1708" width="960" height="543" key="Vcs.Push.Dialog.v2" timestamp="1590482068965">
+    <state x="895" y="1708" width="960" height="543" key="Vcs.Push.Dialog.v2" timestamp="1590482450983">
       <screen x="405" y="1440" width="1858" height="1080" />
     </state>
-    <state x="895" y="1708" width="960" height="543" key="Vcs.Push.Dialog.v2/405.1440.1858.1080/62.0.2498.1440/2560.360.1920.1080@405.1440.1858.1080" timestamp="1590482068965" />
+    <state x="895" y="1708" width="960" height="543" key="Vcs.Push.Dialog.v2/405.1440.1858.1080/62.0.2498.1440/2560.360.1920.1080@405.1440.1858.1080" timestamp="1590482450983" />
     <state x="1094" y="1873" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1590482094712">
       <screen x="405" y="1440" width="1858" height="1080" />
     </state>
