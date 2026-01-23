@@ -1,9 +1,9 @@
 import React, { useState, useEffect, useCallback, useMemo } from "react";
 import "bootstrap/dist/css/bootstrap.css";
-import TodoRow from "./component/TodoRow.jsx";
-import TodoCreator from "./component/TodoCreator.jsx";
-import TodoBanner from "./component/TodoBanner.jsx";
-import VisibilityControl from "./component/VisibilityControl.jsx";
+import TodoRow from "./component/TodoRow";
+import TodoCreator from "./component/TodoCreator";
+import TodoBanner from "./component/TodoBanner";
+import VisibilityControl from "./component/VisibilityControl";
 
 const App = () => {
   const [userName, setUserName] = useState("Adam");
