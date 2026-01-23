@@ -27,3 +27,5 @@ yarn.lock
 
 # Project exclude paths
 /webpack-test/node_modules/
+
+package-lock.json
