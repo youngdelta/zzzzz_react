@@ -1,6 +1,9 @@
 # React Todo App
 
 This project was bootstrapped with [Vite](https://vitejs.dev/).
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/youngdelta/zzzzz_react)
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
