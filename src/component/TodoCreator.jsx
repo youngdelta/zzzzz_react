@@ -20,6 +20,8 @@ const TodoCreator = ({ callback }) => {
         className="form-control"
         value={newItemText}
         onChange={updateNewTextValue}
+        maxLength={200}
+        placeholder="Enter a task (max 200 characters)"
       />
       <button className="btn btn-primary mt-1" onClick={createNewTodo}>
         ADD
