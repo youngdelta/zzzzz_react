@@ -42,13 +42,16 @@ const App = () => {
     localStorage.setItem("todos", JSON.stringify(state));
   }, [userName, todoItems, showCompleted]);
 
+  const MAX_TODO_LENGTH = 200;
+
   const createNewTodo = useCallback((task) => {
-    if (task && task.trim().length > 0) {
+    const trimmed = task?.trim();
+    if (trimmed && trimmed.length > 0 && trimmed.length <= MAX_TODO_LENGTH) {
       setTodoItems((prevItems) => {
-        if (prevItems.find((item) => item.action === task.trim())) {
+        if (prevItems.find((item) => item.action === trimmed)) {
           return prevItems;
         }
-        return [...prevItems, { action: task.trim(), done: false }];
+        return [...prevItems, { action: trimmed, done: false }];
       });
     }
   }, []);
